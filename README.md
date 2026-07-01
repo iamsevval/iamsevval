@@ -1,6 +1,6 @@
 # Hi, I'm Şevval Arslan 👋
 
-I'm studying Software Engineering at Istanbul Topkapı University. I take an active role in tech communities such as YAZEK (AI Club) and Huawei Student Developers (HSD Topkapı), where I help organize events and summits. I enjoy being involved in both the design and architecture sides of the development process, and taking on responsibilities like Scrum Master and Backend Lead within teams.
+I'm studying Software Engineering. I take an active role in tech communities such as YAZEK (AI Club) and Huawei Student Developers (HSD Topkapı), where I help organize events and summits. I enjoy being involved in both the design and architecture sides of the development process, and taking on responsibilities like Scrum Master and Backend Lead within teams.
 
 ### 🚀 What I'm Doing
 
